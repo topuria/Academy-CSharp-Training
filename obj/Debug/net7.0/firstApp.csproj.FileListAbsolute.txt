@@ -1,0 +1,15 @@
+/Users/topura/Desktop/firstApp/bin/Debug/net7.0/firstApp
+/Users/topura/Desktop/firstApp/bin/Debug/net7.0/firstApp.deps.json
+/Users/topura/Desktop/firstApp/bin/Debug/net7.0/firstApp.runtimeconfig.json
+/Users/topura/Desktop/firstApp/bin/Debug/net7.0/firstApp.dll
+/Users/topura/Desktop/firstApp/bin/Debug/net7.0/firstApp.pdb
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.csproj.AssemblyReference.cache
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.AssemblyInfoInputs.cache
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.AssemblyInfo.cs
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.csproj.CoreCompileInputs.cache
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.dll
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/refint/firstApp.dll
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.pdb
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/firstApp.genruntimeconfig.cache
+/Users/topura/Desktop/firstApp/obj/Debug/net7.0/ref/firstApp.dll
