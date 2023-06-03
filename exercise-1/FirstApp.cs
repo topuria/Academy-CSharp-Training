@@ -11,6 +11,7 @@ namespace FirstApp
     {
         static ConsoleColor defaultForeground = ConsoleColor.White;
         static ConsoleColor defaultBackGround = ConsoleColor.Black;
+        
 
         private static void GreetingInfo()
         {
